@@ -362,9 +362,9 @@ Since this project only includes an ER diagram, add it here.
 
 ### ENTITY-RELATIONSHIP DIAGRAM
 
-```html
+
 <img src="images/ubaid.png">
-```
+
 
 > Put your ER diagram image inside:
 
