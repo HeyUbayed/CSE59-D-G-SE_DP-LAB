@@ -8,13 +8,6 @@ The purpose of this document is to provide a clear understanding of how the syst
 
 ---
 
-## Version History
-
-* **Version 1.0** – Initial Draft.
-* **Version 1.1** – Added functional and non-functional requirements.
-* **Version 1.2** – Added database requirements, system evolution, and assumptions.
-
----
 
 # 1. Introduction
 
