@@ -301,8 +301,6 @@ The system must follow the following constraints:
 * Search results should appear with minimal delay.
 * The system should support multiple records without performance degradation.
 
-> **Recommendation:**  
-> Since performance metrics are not measurable from assumptions, avoid writing exact numbers (e.g., 500 concurrent users) unless tested.
 
 ---
 
@@ -313,8 +311,6 @@ The system must follow the following constraints:
 * Unauthorized access must be restricted.
 * Passwords should be securely stored.
 
-> **Recommendation:**  
-> If passwords are currently stored in plain text in your database, consider implementing password hashing.
 
 ---
 
