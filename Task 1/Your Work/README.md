@@ -287,8 +287,6 @@ The system must follow the following constraints:
 * The system should allow administrators to view reports.
 * The system may allow exporting citizen information.
 
-> **Recommendation:**  
-> If your project does not currently generate reports, you may either remove this section or implement PDF/CSV export later.
 
 ---
 
