@@ -366,7 +366,7 @@ Since this project only includes an ER diagram, add it here.
 <img src="images/ubaid.png">
 
 
-> Put your ER diagram image inside:
+
 
 ```text
 images/ER_Diagram.png
