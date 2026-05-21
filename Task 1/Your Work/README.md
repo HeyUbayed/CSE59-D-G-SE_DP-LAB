@@ -368,21 +368,6 @@ Since this project only includes an ER diagram, add it here.
 
 
 
-```text
-images/ER_Diagram.png
-```
-
-Example GitHub structure:
-
-```text
-project-folder/
-│── images/
-│   └── ER_Diagram.png
-│
-└── SRS.md
-```
-
----
 
 # 5. System Evolution
 
