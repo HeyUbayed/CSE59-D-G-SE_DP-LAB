@@ -345,17 +345,13 @@ The system must follow the following constraints:
 
 # 4. System Models
 
-Since this project only includes an ER diagram, add it here.
-
 ### ENTITY-RELATIONSHIP DIAGRAM
 
 
 <img src="images/ubaid.png">
 
 
-
-
-
+----
 # 5. System Evolution
 
 ## Assumptions
